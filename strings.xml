@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ITN National Live TV</string>
+    <string name="live_badge">LIVE</string>
+    <string name="connecting">Connecting to ITN National...</string>
+    <string name="stream_error">Broadcast connection interrupted</string>
+    <string name="retry_now">Reconnect Now</string>
+</resources>

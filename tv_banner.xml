@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <!-- Dark Studio Background -->
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M0,0h320v180h-320z" />
+    <!-- Red Accent Top Bar -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M0,0h320v8h-320z" />
+    <!-- Gold Live TV Symbol -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M160,50 L185,90 L135,90 Z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M150,75h20v20h-20z" />
+</vector>
